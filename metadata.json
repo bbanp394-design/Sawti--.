@@ -1,0 +1,7 @@
+{
+  "name": "Sawti",
+  "description": "Accessibility communication app for elderly and non-speaking users with handwriting recognition, smart correction, text-to-speech, and emergency mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

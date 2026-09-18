@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sawti</string>
+    <string name="app_title_ar">صوتي (Sawti)</string>
+    <string name="app_subtitle_ar">تطبيق التواصل الميسر لكبار السن</string>
+    <string name="speak_button_label">انطق النص الآن</string>
+    <string name="emergency_button_label">أحتاج مساعدة (طوارئ)</string>
+</resources>
+
